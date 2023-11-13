@@ -1,6 +1,6 @@
 # **CV**
 
-![AVATAR](../in-yan-glavnaya.jpg)
+![AVATAR](in-yan-glavnaya.jpg)
 
 ## **Ballyew Nazar 21 years**
 
