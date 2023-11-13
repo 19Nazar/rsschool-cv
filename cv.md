@@ -30,3 +30,11 @@ function multiply(a, b){
 
 1. CV
    Markdown
+
+## My education:
+
+Programming basics course from CS50
+
+## English level:
+
+A1
