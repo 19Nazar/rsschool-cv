@@ -1,5 +1,7 @@
 # **CV**
 
+![AVATAR](../in-yan-glavnaya.jpg)
+
 ## **Ballyew Nazar 21 years**
 
 ## **Contacts :**
@@ -23,3 +25,8 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Work experience:
+
+1. CV
+   Markdown
