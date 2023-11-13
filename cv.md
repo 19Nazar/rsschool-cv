@@ -28,7 +28,7 @@ function multiply(a, b){
 
 ## Work experience:
 
-1. CV
+1. [CV](https://19nazar.github.io/rsschool-cv/cv)
    Markdown
 
 ## My education:
