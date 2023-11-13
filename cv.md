@@ -15,3 +15,11 @@ My qualities: decency, sociability, serious approach to any business, responsibi
 ## My skills:
 
 HTML, CSS, C, GIT, GitHub, C++
+
+## Сode example:
+
+```
+function multiply(a, b){
+  return a * b;
+}
+```
